@@ -1,15 +1,22 @@
-### Hi there 👋
+<h2 align="left">:wave:Hello there! I'm Arya Putra Sitanggang</h2>
+<h4 align="left">I'm a student of BINUS University</h4>
 
+- 🌱 I’m currently learning JavaScript and React.js.
+- 🔭 I'm working on creating functional and design web pages and learning how to make them easy to understand.
 
-<!-- **azaryao/azaryao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<p align="left">
+  <a href="https://github.com/azaryao/azaryao">
+    <img src="https://komarev.com/ghpvc/?username=azaryao" alt="page views" />
+  </a>
+  <a href="https://github.com/azaryao?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/azaryao?color=green&logo=github">
+  </a>
+</p>
 
-<!-- Here are some ideas to get you started: -->
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-- 🔭 I'm a student.
-- 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate on my project
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+<br>
+
+<!-- links -->
+
+[linkedin]: https://www.linkedin.com/in/arya-sitanggang
