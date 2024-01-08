@@ -4,14 +4,8 @@
 - 🌱 I’m currently learning JavaScript and React.js.
 - 🔭 I'm working on creating functional and design web pages and learning how to make them easy to understand.
 
-<p align="left">
-  <a href="https://github.com/azaryao/azaryao">
-    <img src="https://komarev.com/ghpvc/?username=azaryao" alt="page views" />
-  </a>
-  <a href="https://github.com/azaryao?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/azaryao?color=green&logo=github">
-  </a>
-</p>
+[![Visits](https://komarev.com/ghpvc/?username=azaryao&logo=GitHub&label=Github%20Visits&color=336699&logoColor=white&style=flat-square)](https://github.com/azaryao)
+[![Github Follow](https://img.shields.io/github/followers/azaryao?label=Follow%20Me&style=social)](https://github.com/azaryao)
 
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
