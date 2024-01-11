@@ -7,10 +7,4 @@
 [![Visits](https://komarev.com/ghpvc/?username=azaryao&logo=GitHub&label=Github%20Visits&color=336699&logoColor=white&style=flat-square)](https://github.com/azaryao)
 [![Github Follow](https://img.shields.io/github/followers/azaryao?label=Follow%20Me&style=social)](https://github.com/azaryao)
 
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-
-<br>
-
-<!-- links -->
-
-[linkedin]: https://www.linkedin.com/in/arya-sitanggang
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azaryao&hide=TeX&layout=compact)
